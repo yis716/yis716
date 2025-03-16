@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Web Developer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud Web Developer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### : I am a Web Developer from South Korea.<br/>
+
+
   <br/>
   <br/>
   
